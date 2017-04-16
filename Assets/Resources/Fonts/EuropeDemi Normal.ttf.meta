@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: c3a00bded1c676c4c9c494dbb856c2fc
+timeCreated: 1488367975
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: EuropeDemi
+  fontNames:
+  - EuropeDemi
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

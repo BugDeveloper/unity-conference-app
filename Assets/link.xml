@@ -1,0 +1,13 @@
+<linker>
+    <assembly fullname="mscorlib">
+        <namespace fullname="System.Security.Cryptography" preserve="all"/>
+        <namespace fullname="System.Security.X509Certificates" preserve="all"/>
+    </assembly>
+    <assembly fullname="System">
+        <type fullname="System.Net.Configuration.WebRequestModuleHandler" preserve="all"/>
+        <type fullname="System.Net.HttpRequestCreator" preserve="all"/>
+        <type fullname="System.Net.FileWebRequestCreator" preserve="all"/>
+        <type fullname="System.Net.Security" preserve="all"/>
+        <type fullname="System.Net" preserve="all"/>
+    </assembly>
+</linker>
